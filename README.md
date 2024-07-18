@@ -23,5 +23,7 @@ model_SVM.p trained SVM model.
 
 Run the script
 python main.py
+![Bank Pattern Recognition](https://github.com/user-attachments/assets/ca1ca851-7d27-4901-b5e3-b19f367a8985)
 
-![Uploading Bank Pattern Recognition.png…]()
+
+
